@@ -26,5 +26,5 @@ A frontend-only Netflix UI clone built using React, TypeScript, Tailwind CSS, an
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/netflix-clone.git
-   cd netflix-clone
+   git clone https://github.com/gaurav091100/netflix_clone.git
+   cd netflix_clone
